@@ -4,21 +4,31 @@ body{
 	background-color: #232323;
 }
 h2{
-	color: blue;
+	color: #9d9d9d;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	border-bottom: 1px solid #4aaaaf ;
+	font-weight: bold;
 }
 p{
 	float: left;
+	color: #9d9d9d;
 }
 .maincontent{
 	margin-top: 20px;
 	margin-right: 20px;
 	margin-left: 20px; 
+	margin-bottom: 100px;
+	background-color: #232323;
+	border: 1px solid #4aaaaf;
 }
 .connect{
 	margin-top: 20px;
 	margin-bottom: 100px;
 	margin-right: 20px;
 	margin-left: 20px;
+	background-color: #232323;
+	border: 1px solid #4aaaaf
 }
 footer{
 	height: 80px;
@@ -39,4 +49,44 @@ footer{
 }
 .navbar{
 	border-bottom: 4px solid #4aaaaf;
+}
+.input-group{
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.work{
+	width: 80%;
+	margin-left: 30px;
+
+}
+.portimg{
+	width: 100%;
+	border: 2px solid #4aaaaf
+	
+}
+h5{
+	background-color: #232323;
+	color: #4aaaaf;
+	text-align: center;
+	position: relative;
+	bottom: 50px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	border: 2px solid #4aaaaf;
+
+}
+.icon{
+	padding-bottom: 15px;
+	padding-left: 5px;
+}
+.profile{
+	padding-bottom: 10px;
+}
+.text{
+	border: 2px solid #4aaaaf;
+
 }
