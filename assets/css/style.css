@@ -1,0 +1,42 @@
+body{
+	overflow: scroll;
+	height: auto;
+	background-color: #232323;
+}
+h2{
+	color: blue;
+}
+p{
+	float: left;
+}
+.maincontent{
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px; 
+}
+.connect{
+	margin-top: 20px;
+	margin-bottom: 100px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+footer{
+	height: 80px;
+	font-size: 18px;
+	content: "";
+	display: block;
+	clear: both;
+	text-align: center;
+	background-color: #2d2d2d;
+	color: #9d9d9d;
+	border-top: 4px solid #4aaaa5;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	border-radius: 5px;
+	padding-top: 20px;
+}
+.navbar{
+	border-bottom: 4px solid #4aaaaf;
+}
